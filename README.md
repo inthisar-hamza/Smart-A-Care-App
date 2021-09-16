@@ -6,7 +6,7 @@ Learn how easy it is to build an IBM Watson powered ChatBot running on Android a
 
 <p align="center"><img src="https://cloud.ibm.com/docs-content/v1/content/1e5f769222722bc6b4a48c946c87f5d329815e56/solution-tutorials/images/solution28-watson-chatbot-android/architecture.png"/></p>
 
-Demo 
+## Demo 
 
 ![demo1](https://github.com/inthisar-hamza/Smart-A-Care-App/blob/main/images/img1.jpg)
 ![demo1](https://github.com/inthisar-hamza/Smart-A-Care-App/blob/main/images/img2.jpg)
